@@ -12,6 +12,7 @@ Two TestSuites for two SoapServices
       v. text_retest_ru - retests the results of text_test_ru
       vi. text_retest_eng - retests the rulults of text_test_eng
       vii. save_text_test is used for transfering data from 3 and 4 points to properties
+      
     2. text_get_negative
     This test got negative result from expected
     It got 2 steps:
