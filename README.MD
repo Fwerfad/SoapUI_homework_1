@@ -41,3 +41,4 @@ Two TestSuites for two SoapServices
     It got 2 steps:
       1. text_test_ru
       2. text_test_eng
+.
