@@ -3,6 +3,7 @@ Two TestSuites for two SoapServices
   A. SpellServiceSoap TestSuite
   Four TestCases for first SoapService  
     I. text_get_positive(Condition example with groovy help)
+    
     This test simply checks CheckTextRequest feature of first SoapService
     It got 7 steps:
       1. Properties - where we store temporaly variables
