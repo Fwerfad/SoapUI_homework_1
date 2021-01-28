@@ -1,0 +1,90 @@
+23:40:03,207 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Fwerf/Documents/api-1-soapui-project.xml]
+23:40:03,221 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [api_1]
+23:40:03,221 INFO  [SoapUITestCaseRunner] Running TestCase [text_get_positive(DDT example)]
+23:40:03,230 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [text_get_positive(DDT example)]
+23:40:03,237 INFO  [SoapUITestCaseRunner] running step [Properties]
+23:40:03,280 INFO  [SoapUITestCaseRunner] running step [setting values for test]
+23:40:03,675 INFO  [log] Starting testing step 1
+23:40:03,676 INFO  [SoapUITestCaseRunner] running step [text_check]
+23:40:03,814 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+23:40:03,818 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /services/spellservice HTTP/1.1
+23:40:03,876 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+23:40:03,882 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+23:40:03,944 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+23:40:03,945 INFO  [SoapUITestCaseRunner] running step [save_results]
+23:40:04,197 INFO  [SoapUITestCaseRunner] running step [assertion]
+23:40:04,240 INFO  [log] Expected result: 
+23:40:04,240 INFO  [log] Actual result: 
+23:40:04,242 INFO  [log] Result: Test passed successfully
+23:40:04,246 INFO  [SoapUITestCaseRunner] running step [setting values for test]
+23:40:04,247 INFO  [log] Starting testing step 2
+23:40:04,247 INFO  [SoapUITestCaseRunner] running step [text_check]
+23:40:04,248 DEBUG [HttpClientSupport$SoapUIHttpClient] Stale connection check
+23:40:04,249 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+23:40:04,249 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /services/spellservice HTTP/1.1
+23:40:04,306 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+23:40:04,306 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+23:40:04,315 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+23:40:04,315 INFO  [SoapUITestCaseRunner] running step [save_results]
+23:40:04,319 INFO  [SoapUITestCaseRunner] running step [assertion]
+23:40:04,319 INFO  [log] Expected result: 
+23:40:04,319 INFO  [log] Actual result: 
+23:40:04,319 INFO  [log] Result: Test passed successfully
+23:40:04,320 INFO  [SoapUITestCaseRunner] running step [setting values for test]
+23:40:04,320 INFO  [log] Starting testing step 3
+23:40:04,320 INFO  [SoapUITestCaseRunner] running step [text_check]
+23:40:04,321 DEBUG [HttpClientSupport$SoapUIHttpClient] Stale connection check
+23:40:04,322 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+23:40:04,322 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /services/spellservice HTTP/1.1
+23:40:04,346 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+23:40:04,346 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+23:40:04,359 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+23:40:04,359 INFO  [SoapUITestCaseRunner] running step [save_results]
+23:40:04,364 INFO  [SoapUITestCaseRunner] running step [assertion]
+23:40:04,365 INFO  [log] Expected result: Самолет
+23:40:04,365 INFO  [log] Actual result: Самолет
+23:40:04,366 INFO  [log] Result: Test passed successfully
+23:40:04,367 INFO  [SoapUITestCaseRunner] running step [setting values for test]
+23:40:04,367 INFO  [log] Starting testing step 4
+23:40:04,367 INFO  [SoapUITestCaseRunner] running step [text_check]
+23:40:04,369 DEBUG [HttpClientSupport$SoapUIHttpClient] Stale connection check
+23:40:04,371 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+23:40:04,371 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /services/spellservice HTTP/1.1
+23:40:04,396 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+23:40:04,396 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+23:40:04,406 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+23:40:04,406 INFO  [SoapUITestCaseRunner] running step [save_results]
+23:40:04,411 INFO  [SoapUITestCaseRunner] running step [assertion]
+23:40:04,412 INFO  [log] Expected result: Самолет
+23:40:04,412 INFO  [log] Actual result: Самолет
+23:40:04,412 INFO  [log] Result: Test passed successfully
+23:40:04,413 INFO  [SoapUITestCaseRunner] running step [setting values for test]
+23:40:04,413 INFO  [log] Starting testing step 5
+23:40:04,414 INFO  [SoapUITestCaseRunner] running step [text_check]
+23:40:04,415 DEBUG [HttpClientSupport$SoapUIHttpClient] Stale connection check
+23:40:04,417 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+23:40:04,417 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /services/spellservice HTTP/1.1
+23:40:04,466 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+23:40:04,466 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+23:40:04,473 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+23:40:04,473 INFO  [SoapUITestCaseRunner] running step [save_results]
+23:40:04,477 INFO  [SoapUITestCaseRunner] running step [assertion]
+23:40:04,477 INFO  [log] Expected result: ли
+23:40:04,478 INFO  [log] Actual result: ли
+23:40:04,478 INFO  [log] Result: Test passed successfully
+23:40:04,478 INFO  [SoapUITestCaseRunner] running step [setting values for test]
+23:40:04,478 INFO  [log] Starting testing step 6
+23:40:04,478 INFO  [SoapUITestCaseRunner] running step [text_check]
+23:40:04,479 DEBUG [HttpClientSupport$SoapUIHttpClient] Stale connection check
+23:40:04,481 DEBUG [HttpClientSupport$SoapUIHttpClient] Attempt 1 to execute request
+23:40:04,481 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Sending request: POST /services/spellservice HTTP/1.1
+23:40:04,540 DEBUG [SoapUIMultiThreadedHttpConnectionManager$SoapUIDefaultClientConnection] Receiving response: HTTP/1.1 200 OK
+23:40:04,540 DEBUG [HttpClientSupport$SoapUIHttpClient] Connection can be kept alive indefinitely
+23:40:04,547 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+23:40:04,547 INFO  [SoapUITestCaseRunner] running step [save_results]
+23:40:04,550 INFO  [SoapUITestCaseRunner] running step [assertion]
+23:40:04,550 INFO  [log] Expected result: Сомали
+23:40:04,551 INFO  [log] Actual result: Сомали
+23:40:04,551 INFO  [log] Result: Test passed successfully
+23:40:04,557 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [text_get_positive(DDT example)], time taken: 1287ms, status: FINISHED
+23:40:04,568 INFO  [SoapUITestCaseRunner] TestCase [text_get_positive(DDT example)] finished with status [FINISHED] in 1287ms
