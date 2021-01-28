@@ -1,6 +1,6 @@
 Project structure:
 Two TestSuites for two SoapServices
-  1. SpellServiceSoap TestSuite
+  A. SpellServiceSoap TestSuite
   Four TestCases for first SoapService  
     I. text_get_positive(Condition example with groovy help)
     This test simply checks CheckTextRequest feature of first SoapService
@@ -29,7 +29,7 @@ Two TestSuites for two SoapServices
       3. text_check - makes soap request and gets data
       4. save_results - transfers data from point 3 to Properties
       5. assertion - asserts result of test and continues it's execution until all data is checked
-  2. SpellServiceSoap12 TestSuite
+  B. SpellServiceSoap12 TestSuite
   Two TestCases for second SoapService
     I. ServiceSoap12 text_get_positive
     Simple positive test for second SoapService
