@@ -1,5 +1,5 @@
 Project structure:
-Two TestSuites for two SoapServices
+Two TestSuites for two SoapServices and log.txt file for result of running DDT test in soapUI
 
   A. SpellServiceSoap TestSuite
   Four TestCases for first SoapService  
