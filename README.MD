@@ -5,13 +5,13 @@ Two TestSuites for two SoapServices
     1. text_get_positive(Condition example with groovy help)
     This test simply checks CheckTextRequest feature of first SoapService
     It got 7 steps:
-      1. Properties - where we store temporaly variables
-      2. check_texts_set_up - checks if Properties are set for tests and sets them if they are empty
-      3. text_test_ru checks input of russian text
-      4. text_test_eng checks input of english text
-      5. text_retest_ru - retests the results of text_test_ru
-      6. text_retest_eng - retests the rulults of text_test_eng
-      7. save_text_test is used for transfering data from 3 and 4 points to properties
+      i. Properties - where we store temporaly variables
+      ii. check_texts_set_up - checks if Properties are set for tests and sets them if they are empty
+      iii. text_test_ru checks input of russian text
+      iv. text_test_eng checks input of english text
+      v. text_retest_ru - retests the results of text_test_ru
+      vi. text_retest_eng - retests the rulults of text_test_eng
+      vii. save_text_test is used for transfering data from 3 and 4 points to properties
     2. text_get_negative
     This test got negative result from expected
     It got 2 steps:
